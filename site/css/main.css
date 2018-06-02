@@ -1096,7 +1096,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .team-leads li .lead-name {
     color: #0D0A0B;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "montserrat-light", sans-serif;
     font-size: 1.6rem;
 }
 
@@ -1328,8 +1328,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -webkit-transform: translate3d(0, -100%, 0);
     -ms-transform: translate3d(0, -100%, 0);
     transform: translate3d(0, -100%, 0);
-    -webkit-transition: all 1s ease-in-out;
-    transition: all 1s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .s-header.scrolling {
@@ -1384,8 +1384,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     outline: 0;
     border: none;
     width: 120px;
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
 }
 
 .s-header.scrolling .site-logo {
@@ -1762,8 +1760,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-social a {
     color: white;
-    -webkit-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 
 .home-social li {
@@ -1775,8 +1773,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     top: 0;
     line-height: 3.6rem;
-    -webkit-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 
 .home-social i {
